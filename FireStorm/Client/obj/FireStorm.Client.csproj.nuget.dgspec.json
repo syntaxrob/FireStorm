@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Client\\FireStorm.Client.csproj": {}
+  },
+  "projects": {
+    "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Client\\FireStorm.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Client\\FireStorm.Client.csproj",
+        "projectName": "FireStorm.Client",
+        "projectPath": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Client\\FireStorm.Client.csproj",
+        "packagesPath": "C:\\Users\\rpenn\\.nuget\\packages\\",
+        "outputPath": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rpenn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://genovodev.pkgs.visualstudio.com/DefaultCollection/_packaging/GenovoPackageFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\FireStorm.Shared.csproj": {
+                "projectPath": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\FireStorm.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\FireStorm.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\FireStorm.Shared.csproj",
+        "projectName": "FireStorm.Shared",
+        "projectPath": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\FireStorm.Shared.csproj",
+        "packagesPath": "C:\\Users\\rpenn\\.nuget\\packages\\",
+        "outputPath": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rpenn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://genovodev.pkgs.visualstudio.com/DefaultCollection/_packaging/GenovoPackageFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

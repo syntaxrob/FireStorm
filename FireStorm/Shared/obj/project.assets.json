@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\rpenn\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\FireStorm.Shared.csproj",
+      "projectName": "FireStorm.Shared",
+      "projectPath": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\FireStorm.Shared.csproj",
+      "packagesPath": "C:\\Users\\rpenn\\.nuget\\packages\\",
+      "outputPath": "D:\\Education\\Blazor\\FireStorm\\FireStorm\\Shared\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rpenn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://genovodev.pkgs.visualstudio.com/DefaultCollection/_packaging/GenovoPackageFeed/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
