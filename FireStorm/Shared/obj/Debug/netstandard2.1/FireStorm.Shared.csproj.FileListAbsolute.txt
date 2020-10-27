@@ -1,0 +1,9 @@
+D:\Education\Blazor\FireStorm\FireStorm\Shared\bin\Debug\netstandard2.1\FireStorm.Shared.deps.json
+D:\Education\Blazor\FireStorm\FireStorm\Shared\bin\Debug\netstandard2.1\FireStorm.Shared.dll
+D:\Education\Blazor\FireStorm\FireStorm\Shared\bin\Debug\netstandard2.1\FireStorm.Shared.pdb
+D:\Education\Blazor\FireStorm\FireStorm\Shared\obj\Debug\netstandard2.1\FireStorm.Shared.csprojAssemblyReference.cache
+D:\Education\Blazor\FireStorm\FireStorm\Shared\obj\Debug\netstandard2.1\FireStorm.Shared.AssemblyInfoInputs.cache
+D:\Education\Blazor\FireStorm\FireStorm\Shared\obj\Debug\netstandard2.1\FireStorm.Shared.AssemblyInfo.cs
+D:\Education\Blazor\FireStorm\FireStorm\Shared\obj\Debug\netstandard2.1\FireStorm.Shared.csproj.CoreCompileInputs.cache
+D:\Education\Blazor\FireStorm\FireStorm\Shared\obj\Debug\netstandard2.1\FireStorm.Shared.dll
+D:\Education\Blazor\FireStorm\FireStorm\Shared\obj\Debug\netstandard2.1\FireStorm.Shared.pdb
